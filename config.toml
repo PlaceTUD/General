@@ -35,9 +35,9 @@ startx = 1816
 starty = 57
 priority = 0
 
-[[structure]]
-name = "heart"
-file = "images/heart.png"
-startx = 1808
-starty = 58
-priority = 0
+# [[structure]]
+# name = "heart"
+# file = "images/heart.png"
+# startx = 1808
+# starty = 58
+# priority = 0

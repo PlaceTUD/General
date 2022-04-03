@@ -1,194 +1,43 @@
 ignore_colors = [
 	[0, 0, 0, 0],
-	# [0, 0, 0, 255], # filter all black
 ]
 
-version = 13
+version = 1
 
 [priorities]
 "0" = 0
-"1" = 1
-"2" = 5
-"3" = 10
 
 [[structure]]
-name = "rplacede_schriftzug"
-file = "images/rplacede_schriftzug.png"
-startx = 0
-starty = 856
-priority = 3
+name = "tud"
+file = "images/tud.png"
+startx = 1817
+starty = 58
+priority = 0
 
 [[structure]]
-name = "maus"
-file = "images/maus.png"
-startx = 58
-starty = 832
-priority = 2
+name = "tud-h-line-up"
+file = "images/tud-horizontal-line.png"
+startx = 1817
+starty = 57
+priority = 0
 
 [[structure]]
-name = "adler"
-file = "images/adler.png"
-startx = 254
-starty = 830
-priority = 2
+name = "tud-h-line-down"
+file = "images/tud-horizontal-line.png"
+startx = 1817
+starty = 67
+priority = 0
 
 [[structure]]
-name = "bier_brot"
-file = "images/bier_brot.png"
-startx = 169
-starty = 830
-priority = 2
+name = "tud-v-line-left"
+file = "images/tud-vertical-line.png"
+startx = 1816
+starty = 57
+priority = 0
 
 # [[structure]]
-# name = "saeule"
-# file = "images/saeule.png"
-# startx = 431
-# starty = 829
+# name = "heart"
+# file = "images/heart.png"
+# startx = 1808
+# starty = 58
 # priority = 0
-
-[[structure]]
-name = "eu-taube"
-file = "images/eu-taube.png"
-startx = 388
-starty = 833
-priority = 2
-
-[[structure]]
-name = "autobahn"
-file = "images/autobahn.png"
-startx = 539
-starty = 838
-priority = 2
-
-[[structure]]
-name = "ice"
-file = "images/ice.png"
-startx = 326
-starty = 849
-priority = 2
-
-[[structure]]
-name = "brandenburger_tor"
-file = "images/brandenburger_tor.png"
-startx = 676
-starty = 828
-priority = 2
-
-[[structure]]
-name = "no_internet"
-file = "images/no_internet.png"
-startx = 323
-starty = 844
-priority = 2
-
-[[structure]]
-name = "blume"
-file = "images/blume.png"
-startx = 503
-starty = 836
-priority = 2
-
-[[structure]]
-name = "sandmann"
-file = "images/sandmann.png"
-startx = 472
-starty = 831
-priority = 2
-
-[[structure]]
-name = "ente"
-file = "images/ente.png"
-startx = 666
-starty = 850
-priority = 2
-
-[[structure]]
-name = "doenermann"
-file = "images/doenermann.png"
-startx = 1355
-starty = 830
-priority = 2
-
-[[structure]]
-name = "tgv"
-file = "images/tgv.png"
-startx = 434
-starty = 843
-priority = 2
-
-[[structure]]
-name = "portalOrange"
-file = "images/portal_orange.png"
-startx = 758
-starty = 828
-priority = 2
-
-[[structure]]
-name = "portalBlau"
-file = "images/portal_blau.png"
-startx = 1054
-starty = 826
-priority = 2
-
-# [[structure]]
-# name = "duden"
-# file = "images/duden.png"
-# startx = 1700
-# starty = 831
-# priority = 3
-
-[[structure]]
-name = "wanderer"
-file = "images/wanderer.png"
-startx = 1978
-starty = 830
-priority = 2
-
-[[structure]]
-name = "amogus"
-file = "images/amogus.png"
-startx = 1780
-starty = 781
-priority = 2
-
-# [[structure]]
-# name = "nettHier"
-# file = "images/nett_hier.png"
-# startx = 1527
-# starty = 833
-# priority = 2
-
-[[structure]]
-name = "tigerente"
-file = "images/tigerente_frosch.png"
-startx = 1430
-starty = 835
-priority = 2
-
-[[structure]]
-name = "schnellfahren"
-file = "images/schnellfahren.png"
-startx = 566
-starty = 846
-priority = 2
-
-[[structure]]
-name = "autobahn+schild"
-file = "images/autobahn_und_schild.png"
-startx = 1094
-starty = 828
-priority = 2
-
-[[structure]]
-name = "arte"
-file = "images/arte.png"
-startx = 1126
-starty = 838
-priority = 2
-
-[[structure]]
-name = "baum"
-file = "images/baum.png"
-startx = 1234
-starty = 833
-priority = 2

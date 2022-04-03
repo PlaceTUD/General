@@ -1,0 +1,13 @@
+[[structure]]
+name = "tud-v-line-left"
+file = "images/tud-vertical-line.png"
+startx = 1816
+starty = 57
+priority = 0
+
+[[structure]]
+name = "tud-v-line-right"
+file = "images/tud-vertical-line.png"
+startx = 1844
+starty = 57
+priority = 0

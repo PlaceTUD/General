@@ -29,15 +29,15 @@ starty = 67
 priority = 0
 
 [[structure]]
-name = "tud-v-line-left"
-file = "images/tud-vertical-line.png"
-startx = 1816
-starty = 57
+name = "heart"
+file = "images/heart.png"
+startx = 1812
+starty = 54
 priority = 0
 
-# [[structure]]
-# name = "heart"
-# file = "images/heart.png"
-# startx = 1808
-# starty = 58
-# priority = 0
+[[structure]]
+name = "mini-lgbt-flag"
+file = "images/mini-lgbt-flag.png"
+startx = 1812
+starty = 60
+priority = 0

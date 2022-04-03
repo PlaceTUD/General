@@ -8,6 +8,20 @@ version = 1
 "0" = 0
 
 [[structure]]
+name = "background-1"
+file = "images/black-3-3.png"
+startx = 1808
+starty = 58
+priority = 0
+
+[[structure]]
+name = "background-2"
+file = "images/black-3-3.png"
+startx = 1814
+starty = 64
+priority = 0
+
+[[structure]]
 name = "tud"
 file = "images/tud.png"
 startx = 1817
@@ -15,29 +29,57 @@ starty = 58
 priority = 0
 
 [[structure]]
-name = "tud-h-line-up"
+name = "tud-h-line-up-1"
 file = "images/tud-horizontal-line.png"
-startx = 1817
+startx = 1808
 starty = 57
 priority = 0
 
 [[structure]]
-name = "tud-h-line-down"
+name = "tud-h-line-up-2"
 file = "images/tud-horizontal-line.png"
-startx = 1817
+startx = 1818
+starty = 57
+priority = 0
+
+[[structure]]
+name = "tud-h-line-down-1"
+file = "images/tud-horizontal-line.png"
+startx = 1808
 starty = 67
+priority = 0
+
+[[structure]]
+name = "tud-h-line-down-2"
+file = "images/tud-horizontal-line.png"
+startx = 1818
+starty = 67
+priority = 0
+
+[[structure]]
+name = "tud-v-line-left"
+file = "images/tud-vertical-line.png"
+startx = 1808
+starty = 57
+priority = 0
+
+[[structure]]
+name = "tud-v-line-right"
+file = "images/tud-vertical-line.png"
+startx = 1844
+starty = 57
 priority = 0
 
 [[structure]]
 name = "heart"
 file = "images/heart.png"
-startx = 1812
-starty = 54
+startx = 1810
+starty = 56
 priority = 0
 
 [[structure]]
 name = "mini-lgbt-flag"
 file = "images/mini-lgbt-flag.png"
-startx = 1812
-starty = 60
+startx = 1809
+starty = 61
 priority = 0

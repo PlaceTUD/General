@@ -90,3 +90,10 @@ file = "images/tudarmstadt_logo.png"
 startx = 889
 starty = 1725
 priority = 0
+
+[[structure]]
+name = "hda_logo"
+file = "images/hda_logo.png"
+startx = 1877
+starty = 35
+priority = 0

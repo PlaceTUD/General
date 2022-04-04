@@ -8,64 +8,64 @@ version = 1
 "0" = 0
 
 [[structure]]
-name = "background-1"
-file = "images/black-3-3.png"
+name = "black_3x3-1"
+file = "images/black_3x3.png"
 startx = 1808
 starty = 58
 priority = 0
 
 [[structure]]
-name = "background-2"
-file = "images/black-3-3.png"
+name = "black_3x3-2"
+file = "images/black_3x3.png"
 startx = 1814
 starty = 64
 priority = 0
 
 [[structure]]
-name = "tud"
-file = "images/tud.png"
+name = "geekhub_logo"
+file = "images/geekhub_logo.png"
 startx = 1817
 starty = 58
 priority = 0
 
 [[structure]]
-name = "tud-h-line-up-1"
-file = "images/tud-horizontal-line.png"
+name = "geekhub_logo-h-line-up-1"
+file = "images/geekhub_logo-horizontal-line.png"
 startx = 1808
 starty = 57
 priority = 0
 
 [[structure]]
-name = "tud-h-line-up-2"
-file = "images/tud-horizontal-line.png"
+name = "geekhub_logo-h-line-up-2"
+file = "images/geekhub_logo-horizontal-line.png"
 startx = 1818
 starty = 57
 priority = 0
 
 [[structure]]
-name = "tud-h-line-down-1"
-file = "images/tud-horizontal-line.png"
+name = "geekhub_logo-h-line-down-1"
+file = "images/geekhub_logo-horizontal-line.png"
 startx = 1808
 starty = 67
 priority = 0
 
 [[structure]]
-name = "tud-h-line-down-2"
-file = "images/tud-horizontal-line.png"
+name = "geekhub_logo-h-line-down-2"
+file = "images/geekhub_logo-horizontal-line.png"
 startx = 1818
 starty = 67
 priority = 0
 
 [[structure]]
-name = "tud-v-line-left"
-file = "images/tud-vertical-line.png"
+name = "geekhub_logo-v-line-left"
+file = "images/geekhub_logo-vertical-line.png"
 startx = 1808
 starty = 57
 priority = 0
 
 [[structure]]
-name = "tud-v-line-right"
-file = "images/tud-vertical-line.png"
+name = "geekhub_logo-v-line-right"
+file = "images/geekhub_logo-vertical-line.png"
 startx = 1844
 starty = 57
 priority = 0
@@ -78,8 +78,15 @@ starty = 56
 priority = 0
 
 [[structure]]
-name = "mini-lgbt-flag"
-file = "images/mini-lgbt-flag.png"
+name = "mini_lgbt_flag"
+file = "images/mini_lgbt_flag.png"
 startx = 1809
 starty = 61
+priority = 0
+
+[[structure]]
+name = "tudarmstadt_logo"
+file = "images/tudarmstadt_logo.png"
+startx = 889
+starty = 1725
 priority = 0
